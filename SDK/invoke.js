@@ -7,7 +7,7 @@
 const { FileSystemWallet, Gateway } = require('fabric-network');
 const path = require('path');
 
-const ccpPath = '/home/rohan/Documents/cloudledger/cloud-network/connection-org1.json';
+const ccpPath = '/home/rohan/Documents/hack-idf/cloud-network/connection-org1.json';
 
 async function main() {
     try {
